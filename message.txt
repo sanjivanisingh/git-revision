@@ -1,1 +1,2 @@
 new line inside git-revision
+another line added in the file
